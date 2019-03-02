@@ -5,5 +5,12 @@
   "main": "index.js",
   "repository": "https://github.com/jprando/jeudi.dev",
   "author": "Jeudi Prando <jeudiprando@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "devDependencies": {
+    "vuepress": "^0.14.9"
+  }
 }
