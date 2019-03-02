@@ -4,12 +4,12 @@ meta:
     content: inicio, blog, dicas, knowbase
 home: true
 heroImage: /hero.png
-actionText: Entrar →
-actionLink: /guide/
+actionText: Continuar Lendo →
+actionLink: /contato.md
 features:
   - title: Motivação
     details: Criar e manter uma base de conhecimento para consultar em qualquer lugar e a qualquer hora.
   - title: A origem
-    details: Problema resolvidos, Estudos, testes e pesquisas realizadas por mim é a origem dos assuntos que irei compartilhar aqui.
+    details: Problema resolvidos, estudos, testes e pesquisas realizadas por mim é a origem dos assuntos que irei compartilhar aqui.
 footer: criado em março de 2019
 ---

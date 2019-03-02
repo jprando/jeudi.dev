@@ -13,11 +13,11 @@ module.exports = {
   ],
   markdown: { lineNumbers: true },
   themeConfig: {
-    // nav: [{ text: 'Início', link: '/' }],
+    nav: [{ text: 'Contato', link: '/contato.md' }],
     lastUpdated: true, // 'Last Updated'
     repo: 'jprando/jeudi.dev',
     editLinks: true,
-    editLinkText: 'Ajude-nos a melhorar esta página!',
+    editLinkText: 'editar esta página!',
     serviceWorker: {
       updatePopup: {
         message: 'Novo conteúdo está disponível.',
