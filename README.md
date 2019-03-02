@@ -3,7 +3,7 @@ meta:
   - name: keywords
     content: inicio, blog, dicas, knowbase
 home: true
-heroImage: /hero.png
+heroImage: /jeudidev.png
 actionText: Continuar Lendo →
 actionLink: /contato.md
 features:
