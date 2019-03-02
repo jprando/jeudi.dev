@@ -6,6 +6,7 @@
   "author": "Jeudi Prando <jeudiprando@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "start": "vuepress dev",
     "dev": "vuepress dev",
     "build": "vuepress build"
   },

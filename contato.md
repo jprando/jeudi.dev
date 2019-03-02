@@ -6,7 +6,11 @@ meta:
 
 # Fale Comigo
 
-Informações para você entrar em contato comigo:
+Informações para você entrar em contato comigo
+
+## Telegram [@jeudi](https://t.me/jeudi)
+
+Se você quer trocar mensagens de forma rápida e prática esta é a melhor opção.
 
 ## Github [jprando](https://github.com/jprando)
 

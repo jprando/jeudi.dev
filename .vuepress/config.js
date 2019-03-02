@@ -23,7 +23,7 @@ module.exports = {
     editLinkText: 'editar esta página!',
     serviceWorker: {
       updatePopup: {
-        message: 'Novo conteúdo está disponível.',
+        message: 'Novo conteúdo disponível',
         buttonText: 'Atualizar'
       }
     }
