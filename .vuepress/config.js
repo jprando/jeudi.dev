@@ -15,6 +15,7 @@ module.exports = {
   ga: 'UA-135465871-1',
   serviceWorker: true,
   themeConfig: {
+    logo: 'logojd.png',
     nav: [{ text: 'Contato', link: '/contato.md' }],
     lastUpdated: true, // 'Last Updated'
     repo: 'jprando/jeudi.dev',
