@@ -22,4 +22,4 @@ Base de conhecimento para compartilhar e consultar em qualquer lugar a qualquer 
 
 ## [jeudi.com.br](https://jeudi.com.br) <small> #site </small>
 
-Se estou fazendo um teste ou uma pesquisa é para este site que geralmente aponto ele.
+Se estou fazendo um teste ou uma pesquisa é para este site que geralmente aponto eles.
