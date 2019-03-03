@@ -1,7 +1,7 @@
 ---
 meta:
   - name: keywords
-    content: contato
+    content: jeudi, jeudi prando, contato, telegram, github, twitter, blog, site
 ---
 
 # Fale Comigo
