@@ -17,7 +17,7 @@ module.exports = {
   themeConfig: {
     logo: 'logojd.png',
     nav: [{ text: 'Contato', link: '/contato.md' }],
-    lastUpdated: true, // 'Last Updated'
+    lastUpdated: 'atualizado em',
     repo: 'jprando/jeudi.dev',
     editLinks: true,
     editLinkText: 'editar esta página!',
