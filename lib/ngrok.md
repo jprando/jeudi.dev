@@ -11,4 +11,20 @@ meta:
 
 # NGROK
 
+<TagLinks />
+
 *sexta-feira, 08 de março de 2019*
+
+# O que você vai aprender
+...
+
+# O problema que ele resolve
+...
+
+# Instalando NGROK
+...
+
+# Utilização simples NGROK
+...
+
+# Outros cenários que ele pode ajudar
