@@ -2,6 +2,6 @@
 
 ## [NGROK](/lib/ngrok.md)
 
-\#javascript \#vpn
+\#javascript \#tcp \#http \#redirecionamento
 
 Redirecione requisições HTTP e TCP, de um endereço público para um aplicativo executando na sua máquina.
