@@ -5,7 +5,7 @@ meta:
 home: true
 heroImage: /jeudidev.png
 actionText: Continuar Lendo →
-actionLink: /contato.md
+actionLink: /2019/
 features:
   - title: Motivação
     details: Criar e manter uma base de conhecimento para consultar em qualquer lugar e a qualquer hora.
