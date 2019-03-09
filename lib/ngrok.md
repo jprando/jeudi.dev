@@ -1,7 +1,7 @@
 ---
 title: NGROK
 subtitle: redirecionamento de requisições sem esforço
-tags: ["javascript","redirecionamento","tcp","http","ngrok"]
+tags: ["javascript","redirecionamento"]
 meta:
   - name: description
     content: redirecionamento de portas tcp e http para o mundo
@@ -9,22 +9,22 @@ meta:
     content: javascript, yarn, npm, ngrok, tcp, http, https, redirecionamento
 ---
 
-# NGROK
+## NGROK
 
 <TagLinks />
 
 *sexta-feira, 08 de março de 2019*
 
-# O que você vai aprender
+## O que você vai aprender
 ...
 
-# O problema que ele resolve
+## O problema que ele resolve
 ...
 
-# Instalando NGROK
+## Instalando NGROK
 ...
 
-# Utilização simples NGROK
+## Utilização simples NGROK
 ...
 
-# Outros cenários que ele pode ajudar
+## Outros cenários que ele pode ajudar
