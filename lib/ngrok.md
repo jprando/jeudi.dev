@@ -1,4 +1,7 @@
 ---
+title: NGROK
+subtitle: redirecionamento de requisições sem esforço
+tags: ["javascript","redirecionamento","tcp","http","ngrok"]
 meta:
   - name: description
     content: redirecionamento de portas tcp e http para o mundo
