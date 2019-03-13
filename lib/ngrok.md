@@ -24,8 +24,7 @@ meta:
 ```bash
 ./ngrok authtoken 4GYs_token_Vwej_de_acesso_64ZN5_da_sua_conta_8TMoT
 ```
-5. fazer redirecionamento de um serviço executando na sua máquina publicamente
-exemplos de comandos
+5. tornar acessível um serviço da sua máquina publicamente
 ```bash
 # postgres
 ./ngrok tcp 5432
@@ -36,6 +35,10 @@ exemplos de comandos
 # express com node
 ./ngrok http 8080
 ```
+6. após executar o comando, duas urls estarão disponíveis
+- url de monitoramento das requisições
+- url para acessar publicamente o serviço que é executado localmente
+
 
 ## O que você vai aprender
 ...
