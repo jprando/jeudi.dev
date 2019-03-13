@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "start": "vuepress dev",
-    "dev": "vuepress dev",
+    "dev": "vuepress dev --debug",
     "build": "vuepress build"
   },
   "devDependencies": {
