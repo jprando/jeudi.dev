@@ -18,13 +18,12 @@ meta:
 [site oficial do ngrok](https://ngrok.com/)
 
 1. acessar o site do ngrok e criar uma conta gratuita
-2. baixar o binário do ngrok no site official e descompactar em uma pasta
-3. configurar o PATH com o caminho da pasta do passo anterior
-4. configurar a conta que voce criou no passo 1. localmente com o comando
+2. baixar o zip do ngrok, descompactar e acessar a pasta em um terminal
+3. configurar a conta que voce criou no passo 1. localmente com o comando
 ```bash
 ./ngrok authtoken 4GYs_token_Vwej_de_acesso_64ZN5_da_sua_conta_8TMoT
 ```
-5. tornar acessível um serviço da sua máquina publicamente
+4. tornar acessível um serviço da sua máquina publicamente
 ```bash
 # postgres
 ./ngrok tcp 5432
@@ -35,9 +34,22 @@ meta:
 # express com node
 ./ngrok http 8080
 ```
-6. após executar o comando, duas urls estarão disponíveis
-- url de monitoramento das requisições
-- url para acessar publicamente o serviço que é executado localmente
+5. após executar o comando, duas urls estarão disponíveis
+- url de monitoramento das requisições em `http://127.0.0.1:4040`
+- url para acessar publicamente(Forwarding) o serviço que é executado localmente
+```bash
+ngrok by @inconshreveable                                                                (Ctrl+C to quit)
+  
+Session Status                online
+Account                       Free (Plan: Fulano de Tal)
+Version                       2.3.15
+Region                        United States (us)
+Web Interface                 http://127.0.0.1:4040
+Forwarding                    tcp://0.tcp.ngrok.io:12334 -> localhost:22                                 
+ 
+Connections                   ttl     opn     rt1     rt5     p50     p90                                
+                              0       0       0.00    0.00    0.00    0.00  
+```
 
 
 ## O que você vai aprender
