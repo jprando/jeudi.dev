@@ -18,7 +18,7 @@ meta:
 [site oficial do ngrok](https://ngrok.com/)
 
 1. acessar o site do ngrok e criar uma conta gratuita
-2. baixar o zip do ngrok, descompactar e acessar a pasta em um terminal
+2. baixar o zip do ngrok, descompactar em uma pasta e acessar a pasta em um terminal
 3. configurar, uma única vez, a conta que voce criou no passo 1. com o comando:
 ```bash
 ./ngrok authtoken 4GYs_token_Vwej_de_acesso_64ZN5_da_sua_conta_8TMoT
