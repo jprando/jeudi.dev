@@ -67,3 +67,6 @@ Connections                   ttl     opn     rt1     rt5     p50     p90
 ...
 
 ## Outros cenários que ele pode ajudar
+
+## Dicas
+Quando executando o ngrok pressione CTRL+U ou inicie o app `./ngrok update` para atualizar para a versão mais recente.
