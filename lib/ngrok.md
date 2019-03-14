@@ -37,8 +37,10 @@ meta:
 5. após executar o comando, duas urls estarão disponíveis
 - url de monitoramento das requisições em `http://127.0.0.1:4040`
 - url para acessar publicamente(Forwarding) o serviço que é executado localmente
+
+se tudo funcionar corretamente voce deve estar vendo isso em seu terminal
 ```bash
-ngrok by @inconshreveable                                                                (Ctrl+C to quit)
+ngrok by @inconshreveable                                 (Ctrl+C to quit)
   
 Session Status                online
 Account                       Free (Plan: Fulano de Tal)
