@@ -23,7 +23,3 @@ Onde eu acompanho as nóticias do mundo e escrevo algumas poucas palavras sobre 
 ## Blog [jeudi.dev](https://jeudi.dev)
 
 Base de conhecimento para compartilhar e consultar em qualquer lugar e a qualquer hora.
-
-## Site [jeudi.com.br](https://jeudi.com.br)
-
-Se estou fazendo um teste ou uma pesquisa é para este site que geralmente aponto eles.
