@@ -4,7 +4,7 @@ subtitle: redirecionamento de requisições sem esforço
 tags: ["javascript","redirecionamento"]
 meta:
   - name: description
-    content: redirecionamento de portas tcp e http para o mundo
+    content: redirecionamento de portas tcp e http local da sua máquina para o mundo
   - name: keywords
     content: javascript, yarn, npm, ngrok, tcp, http, https, redirecionamento
 ---
