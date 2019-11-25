@@ -15,7 +15,7 @@ module.exports = {
   ga: 'UA-135465871-1',
   serviceWorker: true,
   themeConfig: {
-    logo: 'logojd.png',
+    logo: '/logojd.png',
     nav: [{ text: 'Contato', link: '/contato.md' }],
     lastUpdated: 'atualizado em',
     repo: 'jprando/jeudi.dev',
@@ -27,5 +27,5 @@ module.exports = {
         buttonText: 'Atualizar'
       }
     }
-  }
+  }  
 }
