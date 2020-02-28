@@ -4,6 +4,6 @@
 
 Site para realizar consultas de informações de CPF e CNPJ.
 
-## Anos anteriores
+## Outros anos
 
 Artigos de [2019](/2019/).
