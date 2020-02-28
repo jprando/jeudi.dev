@@ -17,8 +17,8 @@ meta:
 
 ## TL;DR
 
-Deixarei registrado dois serviços/sites/links que servem para consultar dados e
-informações de CPF e CNPJ.
+Deixarei registrado dois serviços/sites/links que servem para validar o número,
+consultar dados e informações de CPF e CNPJ.
 
 ## Receita Fazenda
 

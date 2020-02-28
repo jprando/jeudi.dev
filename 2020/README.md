@@ -2,7 +2,7 @@
 
 ## [Consulta CPF e CNPJ](/conteudo/servico/consulta.cpf.cnpj.md)
 
-Site para realizar consultas de informações de CPF e CNPJ.
+Sites para realizar validação do número e consultas de informações de CPF e CNPJ.
 
 ## Outros anos
 
