@@ -16,7 +16,10 @@ module.exports = {
   serviceWorker: true,
   themeConfig: {
     logo: '/logojd.png',
-    nav: [{ text: 'Contato', link: '/contato.md' }],
+    nav: [
+      { text: 'Contato', link: '/contato.md' }
+      { text: 'Tags', link: '/tags.md' }
+    ],
     lastUpdated: 'atualizado em',
     repo: 'jprando/jeudi.dev',
     editLinks: true,
