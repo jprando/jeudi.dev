@@ -1,7 +1,7 @@
 ---
 meta:
   - name: keywords
-    content: inicio, blog, dicas, knowbase
+    content: jeudi, jeudi prando, jeudi prando araujo, dev, dev blog, blog, dicas, knowbase, desenvolvimento, programacao, tecnologia, javascript
 home: true
 heroImage: /jeudidev.png
 actionText: Continuar Lendo →
