@@ -34,15 +34,26 @@ registrando aqui para que seja mais fácil e conveniente acha-los.
 
 CPF é o acrônimo de CADASTRO DE PESSOA FISICA.
 
+Gerador e validador online de CPF:
+
+- [opção 1 - gerador e validador](https://www.geradordecpf.org/)
+- [opção 2 - gerador](https://www.geradorcpf.com/)
+- [opção 2 - validador](https://www.geradorcpf.com/validar-cpf.htm)
+
 [maiores informações](http://receita.economia.gov.br/orientacao/tributaria/cadastros/cadastro-de-pessoas-fisicas-cpf)
 
 ## CNPJ
 
 CNPJ é o acrônimo de CADASTRO NACIONAL DE PESSOA JURÍDICA.
 
+Gerador e validador online de CNPJ:
+
+- [gerar](https://www.geradorcnpj.com/)
+- [validar](https://www.geradorcnpj.com/validar-cnpj.htm)
+
 [maiores informações](http://receita.economia.gov.br/orientacao/tributaria/cadastros/cadastro-nacional-de-pessoas-juridicas-cnpj)
 
 ### Recomendação
 
-Pelo menos uma vez por ano é bom lembrar de dar uma olhada na situação cadastral
-do seu CPF e caso você tenha alguma empresa no CNPJ também.
+Pelo menos uma vez por ano é prudente e bom lembrar de dar uma olhada na
+situação cadastral do seu CPF e caso você tenha alguma empresa no CNPJ também.
